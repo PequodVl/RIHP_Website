@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
             <header>
                 <h1>RIHP Website</h1>
                 <nav>
-                    <a href="MainPage.html">Home</a>
+                    <a href="Index.html">Home</a>
                     <a href="Forum.html">Forum</a>
                     <a href="FAQ.html">FAQ</a>
                 </nav>
